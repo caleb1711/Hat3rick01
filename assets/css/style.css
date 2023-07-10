@@ -3,6 +3,8 @@ body {
 }
 
 
+
+
 #badge {
     font-size: 35px;
     font-weight: bold;
@@ -10,18 +12,40 @@ body {
     background-color: rgb(211, 70, 94);
     display: inline;
     padding: 8px;
+    float: left;
 
 }
+
+/* Navigation Links */
 
 #navi a {
+
     color: grey;
     padding: 8px;
-
+    float: right;
+    margin-top: 16px;
 }
 
 
+#navi {
+    /* margin-top: 16px; */
+
+}
+
+#navi a:hover {
+    color: rgb(211, 70, 94);
+    ;
+}
 
 #esoro {
     text-align: center;
     padding-top: 30px;
+}
+
+/* Image */
+
+#t-image img {
+    background: url('../images/new.webp') no-repeat center center;
+    width: 100%;
+    margin-top: 16px;
 }
