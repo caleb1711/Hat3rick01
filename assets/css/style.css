@@ -26,19 +26,27 @@ body {
 
 #navi a {
 
-    color: #524b4b;
+    color: rgb(26, 85, 117);
     padding: 8px;
     float: right;
     margin-top: 14px;
     font-size: 15px;
     text-decoration: none;
+    letter-spacing: 4px;
+}
+
+#navi {
+    position: static;
 }
 
 
 
 
+
+
+
 #navi a:hover {
-    color: rgb(136, 178, 201);
+    color: rgb(169, 164, 218);
 }
 
 #esoro {
@@ -98,6 +106,8 @@ body {
     margin-top: 50px;
     text-align: center;
     padding-top: 10px;
+
+    color: rgb(41, 3, 3);
 }
 
 /* Sign-in Form */
@@ -148,7 +158,7 @@ body {
 
 #submit:hover {
     cursor: pointer;
-    background-color: rgb(113, 184, 113);
+    background-color: rgba(116, 174, 205, );
 }
 
 /* Link */
@@ -163,5 +173,7 @@ body {
 
 /* Background */
 #lionel {
-    background-color: lightblue;
+    background: url(../images/try2.png) no-repeat center center;
+
+
 }
