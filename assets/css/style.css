@@ -21,6 +21,14 @@ body {
 
 }
 
+#fuss {
+    text-transform: lowercase;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+
+
 /* Navigation Links */
 
 #navi a {
@@ -58,6 +66,7 @@ body {
 #cola {
     margin-bottom: -25px;
     background-color: rgb(25, 21, 56);
+    margin-left: -4px;
 }
 
 .social-networks {
@@ -124,7 +133,7 @@ body {
 
 
 .form h1 {
-    font-size: 2.2rem;
+    font-size: 2.0rem;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     margin: 40px;
     color: white;
@@ -189,6 +198,7 @@ body {
         margin-left: 5px;
         margin-bottom: 40px;
         line-height: 20px;
+        margin-top: -10px;
     }
 
 }
@@ -200,6 +210,7 @@ body {
         margin-left: 5px;
         margin-bottom: 40px;
         line-height: 20px;
+
     }
 
 }
