@@ -190,6 +190,25 @@ body {
 /* media queries */
 
 /* For medium screen sizes from 950px wide and down */
+@media screen and (max-width: 600px) {
+    .form {
+
+        margin-top: -10px;
+        width: auto;
+
+    }
+
+    @media screen and (max-width: 600px) {
+        #lionel {
+
+
+            width: auto;
+
+        }
+
+    }
+
+}
 
 @media screen and (max-width: 950px) {
     #navi {
@@ -203,17 +222,7 @@ body {
 
 }
 
-@media screen and (max-width: 600px) {
-    #navi {
-        clear: left;
-        float: left;
-        margin-left: 5px;
-        margin-bottom: 40px;
-        line-height: 20px;
-        margin-top: -10px;
-    }
 
-}
 
 @media screen and (max-width: 950px) {
     .form {
