@@ -263,7 +263,7 @@ body {
 /* For medium screen sizes from 950px wide and down */
 @media screen and (max-width: 1200px) {
     #cola {
-        width: 100%;
+        width: auto;
 
     }
 
