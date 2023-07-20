@@ -237,6 +237,14 @@ body {
 
 }
 
+@media screen and (max-width: 768px) {
+    #cola {
+        margin-bottom: auto;
+        width: auto;
+    }
+
+}
+
 
 @media screen and (max-width: 950px) {
     h2 {
