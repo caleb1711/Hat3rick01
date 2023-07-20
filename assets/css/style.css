@@ -204,18 +204,6 @@ body {
 
     }
 
-    /* For medium screen sizes from 600px wide and down */
-    /* 
-    @media screen and (max-width: 380px) {
-        h2 {
-
-
-            align-items: center;
-
-        }
-
-    } */
-
     @media screen and (max-width: 600px) {
         #lionel {
 
@@ -241,6 +229,13 @@ body {
 
 }
 
+@media screen and (max-width: 950px) {
+    #cola {
+        margin-bottom: -25px;
+    }
+
+}
+
 /* 
 @media screen and (max-width: 950px) {
     h2 {
@@ -258,6 +253,15 @@ body {
         margin-left: 5px;
         margin-bottom: 40px;
         line-height: 20px;
+
+    }
+
+}
+
+/* For medium screen sizes from 950px wide and down */
+@media screen and (max-width: 1200px) {
+    #lionel {
+        max-width: 100%;
 
     }
 
