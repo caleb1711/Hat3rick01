@@ -64,10 +64,10 @@ body {
 /* footer */
 
 #cola {
-    /* margin-bottom: -25px; */
+    margin-bottom: -25px;
     background-color: rgb(25, 21, 56);
     margin-left: -4px;
-    width: 100%;
+
 }
 
 .social-networks {
@@ -230,13 +230,13 @@ body {
 
 }
 
-/* @media screen and (max-width: 950px) {
+@media screen and (max-width: 950px) {
     #cola {
-        margin-bottom: -40px;
+        margin-bottom: 25px;
         width: auto;
     }
 
-} */
+}
 
 
 
