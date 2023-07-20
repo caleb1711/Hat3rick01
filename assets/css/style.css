@@ -232,6 +232,7 @@ body {
 @media screen and (max-width: 950px) {
     #cola {
         margin-bottom: -40px;
+        width: auto;
     }
 
 }
