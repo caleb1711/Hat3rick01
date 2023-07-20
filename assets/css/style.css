@@ -261,9 +261,9 @@ body {
 }
 
 /* For medium screen sizes from 950px wide and down */
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 992px {
     #cola {
-        width: auto;
+        width: 100%;
 
     }
 
