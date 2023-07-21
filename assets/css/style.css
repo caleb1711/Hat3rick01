@@ -230,13 +230,14 @@ body {
 
 }
 
+/* 
 @media screen and (max-width: 950px) {
     #cola {
         margin-bottom: -45px;
 
     }
 
-}
+} */
 
 
 
@@ -262,13 +263,13 @@ body {
 }
 
 /* For medium screen sizes from 950px wide and down */
-@media screen and (max-width: 992px) {
+/* @media screen and (max-width: 992px) {
     #cola {
         width: 100%;
 
     }
 
-}
+} */
 
 /* em id */
 
