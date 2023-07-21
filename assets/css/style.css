@@ -46,12 +46,6 @@ body {
     position: static;
 }
 
-
-
-
-
-
-
 #navi a:hover {
     color: rgb(197, 26, 43);
 }
@@ -59,35 +53,6 @@ body {
 #esoro {
     text-align: center;
     padding-top: 30px;
-}
-
-/* footer */
-
-#cola {
-    margin-bottom: -35px;
-    background-color: rgb(25, 21, 56);
-    margin-left: -4px;
-
-}
-
-.social-networks {
-    text-align: center;
-}
-
-.social-networks>li {
-    display: inline;
-}
-
-.sis {
-    color: rgb(255, 255, 255);
-    text-decoration: none;
-}
-
-.social-networks i {
-    font-size: 160%;
-    margin: 1px;
-    padding: 5%;
-    color: rgb(255, 255, 255);
 }
 
 /* Image */
@@ -109,20 +74,8 @@ body {
 
 }
 
-/* The sign up background image container */
-
 #messsi {
     padding-top: 80px;
-}
-
-/* The contact us section */
-
-#contact-us {
-    margin-top: 50px;
-    text-align: center;
-    padding-top: 10px;
-
-    color: rgb(41, 3, 3);
 }
 
 /* Sign-up Form */
@@ -137,7 +90,7 @@ body {
     margin-top: 50px;
 }
 
-
+/* The sign up  */
 
 .form h1 {
     font-size: 2.0rem;
@@ -173,6 +126,49 @@ body {
     background-color: rgb(116, 174, 205);
 }
 
+
+/* The contact us section */
+
+#contact-us {
+    margin-top: 50px;
+    text-align: center;
+    padding-top: 10px;
+
+    color: rgb(41, 3, 3);
+}
+
+/* The footer */
+
+#cola {
+    margin-bottom: -35px;
+    background-color: rgb(25, 21, 56);
+    margin-left: -4px;
+
+}
+
+.social-networks {
+    text-align: center;
+}
+
+.social-networks>li {
+    display: inline;
+}
+
+.sis {
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+}
+
+.social-networks i {
+    font-size: 160%;
+    margin: 1px;
+    padding: 5%;
+    color: rgb(255, 255, 255);
+}
+
+
+
+
 /* Link */
 
 .form a {
@@ -184,7 +180,8 @@ body {
     color: red;
 }
 
-/* Background */
+/* Background image */
+
 #lionel {
     background: url(../images/try2.png) no-repeat center center;
     height: 600px;
@@ -197,18 +194,6 @@ body {
 /* media queries */
 
 /* For medium screen sizes from 600px wide and down */
-
-@media screen and (max-width: 600px) {
-    #navi {
-        clear: left;
-        float: left;
-        margin-left: 5px;
-        margin-bottom: 40px;
-        line-height: 20px;
-        margin-top: -10px;
-    }
-
-}
 
 @media screen and (max-width: 600px) {
     .form {
@@ -235,6 +220,7 @@ body {
 
 
 /* For medium screen sizes from 950px wide and down */
+
 @media screen and (max-width: 950px) {
     #navi {
         clear: left;
@@ -246,18 +232,6 @@ body {
     }
 
 }
-
-
-/* 
-@media screen and (max-width: 768px) {
-    #cola {
-        margin-bottom: -45px;
-
-    }
-
-} */
-
-
 
 @media screen and (max-width: 950px) {
     h2 {
