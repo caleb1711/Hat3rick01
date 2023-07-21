@@ -18,4 +18,12 @@ This section also talks about the Goals, the vision of the Camp
 
 <img width="960" alt="the about us" src="https://github.com/caleb1711/Hat3rick01/assets/130179631/b195e653-6528-43cb-a093-ae4d4d9fe626">
 
+
+# The Contact us section
+
+This Section gives Users the access to contact us via our Social Media Plattforms
+It also includes a link that enables Users to go to the start of the Page with just a single click
+
+<img width="960" alt="the footer" src="https://github.com/caleb1711/Hat3rick01/assets/130179631/bb8d09b8-25a2-4bdf-b59e-507aa72434c5">
+
   
