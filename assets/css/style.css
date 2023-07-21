@@ -197,6 +197,19 @@ body {
 /* media queries */
 
 /* For medium screen sizes from 600px wide and down */
+
+@media screen and (max-width: 600px) {
+    #navi {
+        clear: left;
+        float: left;
+        margin-left: 5px;
+        margin-bottom: 40px;
+        line-height: 20px;
+        margin-top: -10px;
+    }
+
+}
+
 @media screen and (max-width: 600px) {
     .form {
 
@@ -233,6 +246,7 @@ body {
     }
 
 }
+
 
 /* 
 @media screen and (max-width: 768px) {
