@@ -130,7 +130,7 @@ body {
     display: flex;
     flex-direction: column;
     width: 400px;
-    height: 550px;
+    height: 540px;
     background-color: rgb(31, 27, 77);
     align-items: center;
     margin: auto;
@@ -254,7 +254,7 @@ body {
         clear: left;
         float: left;
         margin-left: 5px;
-        margin-bottom: 40px;
+        /* margin-bottom: 40px; */
         line-height: 20px;
 
     }
@@ -262,7 +262,7 @@ body {
 }
 
 /* For medium screen sizes from 950px wide and down */
-@media screen and (max-width: 992px {
+@media screen and (max-width: 992px) {
     #cola {
         width: 100%;
 
