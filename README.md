@@ -6,3 +6,8 @@ Hat3rick (Hattrick) is a Website, designed for Parents, who want to register the
 # CHARACTERISTICS
 - At the top left of the page is the name of the Website
 - At the right side of the page is the home and sign up links, which take you to their respective pages
+### Navigation
+
+<img width="960" alt="pg" src="https://github.com/caleb1711/Hat3rick01/assets/130179631/6eeb3d0a-ecb1-4908-856f-627a3e988810">
+
+  
