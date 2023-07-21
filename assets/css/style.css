@@ -154,7 +154,7 @@ body {
 
 }
 
-/* submit boxe */
+/* submit box*/
 
 #submit {
     padding: 12px;
@@ -234,14 +234,14 @@ body {
 
 }
 
-
+/* 
 @media screen and (max-width: 768px) {
     #cola {
         margin-bottom: -45px;
 
     }
 
-}
+} */
 
 
 
@@ -251,36 +251,6 @@ body {
     }
 
 }
-
-@media screen and (max-width: 1920px) {
-    #lionel {
-        width: 100%;
-    }
-
-}
-
-
-
-/* @media screen and (max-width: 950px) {
-    .form {
-        clear: left;
-        float: left;
-        margin-left: 5px;
-        margin-bottom: 40px;
-        line-height: 20px;
-
-    }
-
-} */
-
-/* For medium screen sizes from 950px wide and down */
-/* @media screen and (max-width: 992px) {
-    #cola {
-        width: 100%;
-
-    }
-
-} */
 
 /* em id */
 
