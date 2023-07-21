@@ -254,7 +254,7 @@ body {
 
 @media screen and (max-width: 1200px) {
     #lionel {
-        width: fit-content;
+        width: 100%;
     }
 
 }
