@@ -231,7 +231,7 @@ body {
 }
 
 
-@media screen and (max-width: 950px) {
+@media screen and (max-width: 768px) {
     #cola {
         margin-bottom: -45px;
 
