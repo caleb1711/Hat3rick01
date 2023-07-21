@@ -4,10 +4,18 @@ Hat3rick (Hattrick) is a Website, designed for Parents, who want to register the
 
 
 # CHARACTERISTICS
-- At the top left of the page is the name of the Website
+- At the top left of the page is the name of the Website, which also describes it purpose 
 - At the right side of the page is the home and sign up links, which take you to their respective pages
 ### Navigation
 
 <img width="960" alt="pg" src="https://github.com/caleb1711/Hat3rick01/assets/130179631/6eeb3d0a-ecb1-4908-856f-627a3e988810">
+
+
+
+# The About us section
+The About section presents to the users, an accurate Information about the site, including the Age Group of Children, allowed to participate in the Camp's activities.
+This section also talks about the Goals, the vision of the Camp
+
+<img width="960" alt="the about us" src="https://github.com/caleb1711/Hat3rick01/assets/130179631/b195e653-6528-43cb-a093-ae4d4d9fe626">
 
   
