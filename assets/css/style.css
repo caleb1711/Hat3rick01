@@ -202,6 +202,8 @@ body {
 
         margin-top: -10px;
         width: auto;
+        clear: left;
+        float: left;
 
     }
 }
